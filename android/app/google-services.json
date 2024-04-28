@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339065272774",
+    "project_id": "tareafinal-8cd84",
+    "storage_bucket": "tareafinal-8cd84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339065272774:android:8d8848db50218651175ac7",
+        "android_client_info": {
+          "package_name": "com.panaderia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIrcrJNNsmLElnhrkNQoarWBQnthzhng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
